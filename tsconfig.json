@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        //"target": "es5",
+        //"module": "commonjs",
+        "outDir": "dist", // where your typescript files will be compiled to
+        "lib":["ESNext"], // lib will tell typescript that we want to include API from the specified version of ECMAScript
+        //"rootDir": "./src",
+        "strict": true,
+        "esModuleInterop": true, // 
+        //"forceConsistentCasingInFileNames": true
+    }
+}

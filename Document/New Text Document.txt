@@ -1,0 +1,8 @@
+create this project : npm i typescript -D
+create tsconfig.json file
+
+
+run these command ....
+1.             -> npm i ts-node
+2.              -> npm run build
+3. to run app.ts -> npm run dev
