@@ -1,5 +1,8 @@
-function myFunction(props:any){
+interface Input {
+    name : string;
+}
+function myFunction4(props:Input){
     return props;
 }
 
-myFunction({name: 'John'});
+myFunction4({name: 'John'});
