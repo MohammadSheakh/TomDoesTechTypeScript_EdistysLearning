@@ -1,5 +1,5 @@
 "use strict";
-function myFunction(props) {
+function myFunction9(props) {
     return props;
 }
-myFunction({ name: "John" });
+myFunction9({ name: 'John' });

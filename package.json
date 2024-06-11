@@ -4,7 +4,9 @@
   },
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node app.ts"
+    "dev": "ts-node netNinja/1-benefitsOfTypeScript.ts"
+    
+    
   },
   "dependencies": {
     "ts-node": "^10.9.2"
